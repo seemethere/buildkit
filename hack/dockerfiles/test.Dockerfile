@@ -1,5 +1,5 @@
 ARG RUNC_VERSION=6635b4f0c6af3810594d2770f662f34ddc15b40d
-ARG CONTAINERD_VERSION=v1.2.1
+ARG CONTAINERD_VERSION=v1.2.4
 # containerd v1.0 for integration tests
 ARG CONTAINERD10_VERSION=v1.0.3
 # available targets: buildkitd, buildkitd.oci_only, buildkitd.containerd_only
